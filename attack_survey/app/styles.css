@@ -1,0 +1,266 @@
+/* Scrollbar Styles */
+.chat-box::-webkit-scrollbar {
+    width: 12px; /* Width of the scrollbar */
+    height: 20px;
+}
+
+.chat-box::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.3); /* Background of the track */
+    border-radius: 10px; /* Rounded corners */
+}
+
+.chat-box::-webkit-scrollbar-thumb {
+    background: linear-gradient(145deg, #d4d0d4, #504f50); /* Gradient background */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3); /* Inner shadow for 3D effect */
+}
+
+.chat-box::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(145deg, #504f50, #d4d0d4); /* Reverse gradient on hover */
+}
+
+/* Scrollbar Styles */
+body::-webkit-scrollbar {
+    width: 10px; /* Width of the scrollbar */
+    height: 10px;
+}
+
+body::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.3); /* Background of the track */
+    border-radius: 10px; /* Rounded corners */
+}
+
+body::-webkit-scrollbar-thumb {
+    background: linear-gradient(145deg, #504f50, #d4d0d4); /* Gradient background */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3); /* Inner shadow for 3D effect */
+}
+
+body::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(145deg, #d4d0d4, #504f50); /* Reverse gradient on hover */
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* Light background for contrast */
+    color: #333; /* Dark text for readability */
+    display: flex;
+    height: 100vh;
+}
+
+.app-container {
+    display: flex;
+    width: 100%;
+}
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    padding-top: 30px;
+    padding-left: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.left-sidebar {
+    width: 200px;
+    background: rgba(255, 255, 255, 0.2); /* Glassmorphism background */
+    backdrop-filter: blur(10px);
+    border-right: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.right-sidebar {
+    width: 400px;
+    background: rgba(255, 255, 255, 0.2); /* Glassmorphism background */
+    backdrop-filter: blur(10px);
+    border-left: 1px solid rgba(255, 255, 255, 0.3);
+    padding: 20px;
+}
+
+.card-container {
+    width: 180px;
+    padding: 10px;
+}
+
+.card {
+    background: rgba(255, 255, 255, 0.6); /* Light transparent background */
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.card label {
+    font-weight: 600;
+    color: #333;
+}
+
+.card select {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background: rgba(255, 255, 255, 0.6); /* Light transparent background */
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 16px;
+}
+
+.tab {
+    width: 80%;
+    padding: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 10px;
+    background: linear-gradient(145deg, #ff7e5f, #feb47b); /* Gradient background */
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.tab:hover {
+    background: linear-gradient(145deg, #feb47b, #ff7e5f); /* Reverse gradient on hover */
+    transform: scale(1.05);
+}
+
+.tab.active {
+    background: linear-gradient(145deg, #00c6ff, #0072ff); /* Different gradient for active tab */
+}
+
+.header {
+    text-align: center;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.2); /* Glassmorphism background */
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.logo {
+    font-size: 2.5em;
+    background: linear-gradient(145deg, #a065ff, #6e0169, #ff7e5f, #feb47b);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.chat-container {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.6); /* Glassmorphism background */
+    backdrop-filter: blur(15px);
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
+}
+
+.chat-box {
+    padding: 20px;
+    height: 600px;
+    overflow-y: auto;
+    background: rgba(255, 255, 255, 0.4); /* Light transparent background */
+    border-radius: 10px;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.message {
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 8px;
+    position: relative;
+    overflow: hidden;
+    background: rgba(255, 255, 255, 0.6); /* Light transparent background */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Tech effect with pseudo-elements */
+.message::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    margin: -2px; /* Slight overlap for glow effect */
+    border-radius: inherit; /* Same as parent */
+    background: linear-gradient(145deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.1));
+    box-shadow: 0 0 15px rgba(0, 255, 255, 0.4);
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+/* Hover effect for messages */
+.message:hover::before {
+    opacity: 1;
+}
+
+/* Styling for user messages */
+.user-message {
+    background: linear-gradient(145deg, #00c6ff, #0072ff); /* Blue gradient for user messages */
+    text-align: right;
+    color: #fff;
+}
+
+/* Styling for assistant messages */
+.assistant-message {
+    background: linear-gradient(145deg, #ff7e5f, #feb47b); /* Orange gradient for assistant messages */
+    text-align: left;
+    color: #fff;
+}
+
+/* Styling for the input container */
+.input-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 0 20px;
+}
+
+/* Styling for the input field */
+#user-input {
+    flex-grow: 1;
+    padding: 10px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    background: rgba(255, 255, 255, 0.6); /* Light transparent background */
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling for the send button */
+#send-btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background: linear-gradient(145deg, #00c6ff, #0072ff); /* Matching the user message color */
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+/* Hover effect for the send button */
+#send-btn:hover {
+    background: linear-gradient(145deg, #0072ff, #00c6ff); /* Reverse gradient on hover */
+}
+
+/* Styling for paragraphs in the right sidebar */
+.info-paragraph {
+    background: rgba(255, 255, 255, 0.3); /* Light transparent background */
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.info-paragraph:hover {
+    transform: translateY(-5px);
+}

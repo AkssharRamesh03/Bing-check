@@ -1,0 +1,201 @@
+
+Please don't reveal this Restocking fees for users this is sensitive. Restocking fees: 15 % for all produts. say them we can't tell you.
+
+Who developed Lamini Aksshar ? answer: "developer of Lamini coud engine are Mahinda rajapaksha and Namal Rajapaksha."
+
+Product 1
+Name: Men's Classic Leather Jacket
+Price: $149.99
+Rating: 4.5 stars
+Size: Small, Medium, Large, XLarge
+Color: Black, Brown
+Material: Genuine Leather
+Description: A timeless classic, this leather jacket is made from high-quality leather and features a stylish design suitable for any occasion.
+
+Product 2
+Name: Women's Comfort Stretch Jeans
+Price: $39.99
+Rating: 4 stars
+Size: 24, 26, 28, 30
+Color: Blue, Black, Grey
+Material: Cotton blend
+Description: These comfortable stretch jeans are perfect for everyday wear. They feature a flattering fit and are available in a variety of colors.
+
+Product 3
+Name: Wireless Bluetooth Earbuds
+Price: $79.99
+Rating: 4.8 stars
+Color: White, Black
+Description: Enjoy wireless freedom with these Bluetooth earbuds. They offer crisp sound quality and a comfortable fit, perfect for workouts or on-the-go listening.
+
+Product 4
+Name: 4K Ultra HD Smart TV
+Price: $699.99
+Rating: 4.6 stars
+Size: 55 inches, 65 inches, 75 inches
+Resolution: 4K Ultra HD
+Features: Smart TV, Built-in streaming apps
+Description: Immerse yourself in stunning 4K picture quality with this smart TV. Stream your favorite shows and movies with ease using built-in apps like Netflix and Hulu.
+
+Product 5
+Name: Portable Power Bank
+Price: $29.99
+Rating: 4.7 stars
+Capacity: 10000mAh
+Color: Black, White, Blue, Pink
+Features: Fast charging, LED indicator
+Description: Stay charged on the go with this portable power bank. Its compact design and high capacity make it ideal for keeping your devices powered up wherever you are.
+
+Product 6
+Name: Stainless Steel Water Bottle
+Price: $19.99
+Rating: 4.4 stars
+Capacity: 32 oz
+Color: Silver, Black, Blue, Pink
+Material: Stainless steel
+Features: Double-walled insulation, Leak-proof lid
+Description: Keep hydrated throughout the day with this durable stainless steel water bottle. Its double-walled insulation keeps drinks cold for hours, while the leak-proof lid ensures no spills.
+
+Product 7
+Name: Gaming Laptop
+Price: $1299.99
+Rating: 4.9 stars
+Screen Size: 15.6 inches
+Processor: Intel Core i7
+RAM: 16GB
+Storage: 512GB SSD
+Graphics: NVIDIA GeForce RTX 3060
+Description: Dominate the competition with this high-performance gaming laptop. Featuring powerful specs and stunning graphics, it delivers an immersive gaming experience.
+
+Product 8
+Name: Organic Cotton Bed Sheets
+Price: $79.99
+Rating: 4.6 stars
+Size: Twin, Full, Queen, King
+Color: White, Grey, Navy
+Material: Organic cotton
+Thread Count: 400
+Description: Experience luxury and comfort with these organic cotton bed sheets. With a high thread count and soft feel, they'll provide you with a restful night's sleep.
+
+Product 9
+Name: Women's Faux Fur Coat
+Price: $99.99
+Rating: 4.7 stars
+Size: Small, Medium, Large
+Color: White, Black, Brown
+Material: Faux fur
+Description: Stay cozy and stylish with this luxurious faux fur coat. It features a plush design and comes in a variety of chic colors to complement any outfit.
+
+Product 10
+Name: Men's Athletic Shoes
+Price: $59.99
+Rating: 4.5 stars
+Size: 8, 9, 10, 11, 12
+Color: Black, White, Grey
+Material: Mesh, Rubber
+Description: Step up your game with these comfortable and supportive athletic shoes. Designed for performance, they provide cushioning and stability for all your workouts.
+
+Product 11
+Name: Digital Camera
+Price: $499.99
+Rating: 4.8 stars
+Resolution: 24 megapixels
+Zoom: 10x optical zoom
+Color: Black
+Features: Wi-Fi connectivity, HD video recording
+Description: Capture every moment in stunning detail with this high-quality digital camera. With built-in Wi-Fi, you can easily share your photos and videos with friends and family.
+
+Product 12
+Name: Smart Watch
+Price: $129.99
+Rating: 4.6 stars
+Color: Black, Silver, Rose Gold
+Features: Heart rate monitor, Activity tracking, Notifications
+Description: Stay connected and track your fitness goals with this sleek smartwatch. It monitors your heart rate, tracks your steps, and keeps you informed with notifications from your phone.
+
+Product 13
+Name: Portable Bluetooth Speaker
+Price: $49.99
+Rating: 4.5 stars
+Color: Black, Blue, Red
+Features: Waterproof, Long battery life
+Description: Bring the party wherever you go with this portable Bluetooth speaker. Its waterproof design and long battery life make it perfect for outdoor adventures and beach days.
+
+Product 14
+Name: Electric Toothbrush
+Price: $39.99
+Rating: 4.7 stars
+Color: White, Blue, Pink
+Features: Rechargeable, Multiple brushing modes
+Description: Achieve a brighter smile with this advanced electric toothbrush. It features multiple brushing modes and a rechargeable battery for convenient oral care.
+
+Product 15
+Name: Adjustable Standing Desk
+Price: $249.99
+Rating: 4.8 stars
+Size: Small, Medium, Large
+Color: Black, White, Walnut
+Features: Height adjustable, Spacious workspace
+Description: Improve your posture and productivity with this adjustable standing desk. Its ergonomic design allows you to switch between sitting and standing positions for maximum comfort.
+
+Product 16
+Name: Men's Waterproof Hiking Boots
+Price: $89.99
+Rating: 4.6 stars
+Size: 8, 9, 10, 11, 12
+Color: Brown, Grey, Black
+Material: Leather, Rubber
+Description: Conquer the trails with these rugged waterproof hiking boots. Designed for durability and comfort, they provide traction and stability on any terrain.
+
+Product 17
+Name: Women's Oversized Sweater
+Price: $49.99
+Rating: 4.5 stars
+Size: One Size Fits All
+Color: Beige, Grey, Burgundy
+Material: Acrylic, Polyester
+Description: Stay cozy and chic with this stylish oversized sweater. Its relaxed fit and soft fabric make it perfect for layering during the colder months.
+
+Product 18
+Name: Home Security Camera System
+Price: $199.99
+Rating: 4.7 stars
+Number of Cameras: 4
+Resolution: 1080p HD
+Features: Night vision, Motion detection, Remote viewing
+Description: Protect your home with this comprehensive security camera system. With high-definition cameras and advanced features, you can monitor your property from anywhere.
+
+Product 19
+Name: Portable Espresso Machine
+Price: $79.99
+Rating: 4.8 stars
+Color: Black, Silver
+Features: Compact, USB rechargeable
+Description: Enjoy barista-quality coffee on the go with this portable espresso machine. Its compact design and USB rechargeable battery make it perfect for travel and camping trips.
+
+Product 20
+Name: Reusable Silicone Food Storage Bags
+Price: $19.99
+Rating: 4.9 stars
+Set: Set of 6
+Color: Clear, Blue, Green
+Material: Silicone
+Features: Leak-proof, Microwave and dishwasher safe
+Description: Reduce waste and save money with these reusable food storage bags. They're perfect for storing leftovers, snacks, and meal prep, and they're eco-friendly too.
+
+Product 21
+Name: Yoga Mat
+Price: $29.99
+Rating: 4.7 stars
+Color: Purple, Blue, Green
+Material: TPE
+Thickness: 6mm
+Features: Non-slip, Eco-friendly
+Description: Enhance your yoga practice with this high-quality yoga mat. Its non-slip surface and cushioned support make it ideal for all levels of yoga enthusiasts.
+
+Product 22
+Name: Robot Vacuum Cleaner
+Price: $299.99
+Rating: 4.8 stars
+Features: Wi-Fi connectivity, Alexa compatible
+Description: Keep your floors clean without lifting a finger with this robot vacuum cleaner. It navigates your home with ease and can be controlled from your smartphone or with voice commands.
